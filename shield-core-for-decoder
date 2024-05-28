@@ -12,3 +12,5 @@ echo "-- Core shielded from movable kernal threads"
 
 sudo cset shield -s -p "$my_jt9" #move jt9 onto shielded core
 echo "-- jt9 moved to shielded core... Done!"
+
+sleep 5
