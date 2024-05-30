@@ -8,4 +8,6 @@ Second tutorial here: http://web.archive.org/web/20120428093126/http://www.suse.
 This is my implementation of the tutorial.
 
 
-NOTE: you probably need to "sudo apt install cpuset"
+Helpful commands:
+chmod +x shield-core-for-decoder.sh unshield-core-for-decoder.sh
+sudo apt install cpuset
