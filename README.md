@@ -9,5 +9,7 @@ This is my implementation of the tutorial.
 
 
 Helpful commands:
+
 chmod +x shield-core-for-decoder.sh unshield-core-for-decoder.sh
+
 sudo apt install cpuset
