@@ -6,3 +6,6 @@ Googled and found this, it didn't work, but linked to another tutorial that did:
 Second tutorial here: http://web.archive.org/web/20120428093126/http://www.suse.com/documentation/slerte_11/slerte_tutorial/data/slerte_tutorial.html
 
 This is my implementation of the tutorial.
+
+
+NOTE: you probably need to "sudo apt install cpuset"
